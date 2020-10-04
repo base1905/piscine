@@ -1,0 +1,1 @@
+.././..//ex10/ft_strcapitalize.c
